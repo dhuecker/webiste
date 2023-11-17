@@ -28,7 +28,7 @@ const config: Config = {
       display: 'Resume',
       aria: 'View my resume in Google Drive',
       icon: <Resume />,
-      href: 'https://drive.google.com/drive/folders/10k8NWflSYQ5laPzuWtK3bzUKzuOeas8i/',
+      href: 'https://docs.google.com/document/d/1AmrfQo5fDkc0Qhc370QdpTKJTyvi5VqU/edit?usp=sharing&ouid=101497798513193541749&rtpof=true&sd=true',
     },
     {
       display: 'Email',

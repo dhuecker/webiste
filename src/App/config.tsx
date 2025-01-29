@@ -8,8 +8,8 @@ const config: Config = {
     aria: 'My name is David Huecker',
   },
   title: {
-    display: 'Techinal Account Manger',
-    aria: 'I am a techinal account manager',
+    display: 'Technical Account Manager',
+    aria: 'I am a technical account manager',
   },
   buttons: [
     {

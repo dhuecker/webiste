@@ -74,7 +74,7 @@ describe('application tests', () => {
   it('should render link to source code', () => {
     const element = screen.getByTestId('source');
 
-    checkContent(element, /^Source$/, 'https://github.com/adamalston/v2/');
+    checkContent(element, /^Source$/, 'https://github.com/dhuecker/webiste');
   });
 
   it('should render GitHub button', () => {
@@ -112,7 +112,7 @@ describe('application tests', () => {
     const parent = screen.getByTestId('button-Email');
     const child = screen.getByTestId('Email');
 
-    checkButton(parent, child, /^Email$/, 'mailto:aalston9@gmail.com');
+    checkButton(parent, child, /^Email$/, 'mailto:davidhuecker01@gmail.com');
   });
 
   it('should toggle between the dark and light themes', () => {
